@@ -1,4 +1,4 @@
-# Cookie Scout - Serverless Cookie Notification Service
+# Cookie Scout - Serverless, Location Based, Cookie Notification Service
 
 Scrapes girl guide cookie finder site and notifies of nearby cookie sales based on your location.
 
